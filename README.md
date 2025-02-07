@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobit Garg</h1>
-<h3 align="center">A passionate web3 developer from India</h3>
+<h3 align="center">Web3 Developer | Solidity & EVM Specialist 🛠️ | Encode Bootcamp Alumni 🏆 | Building Secure dApps & DeFi Protocols  </h3>
 
 - 🌱 I’m currently learning **Solidity**
 
